@@ -3,7 +3,11 @@ class sum.
 {
 public static void  main(String[] args)
 {
+<<<<<<< HEAD
 int a,b,c,d,e;
+=======
+int a,b,c;#this is comment line modified in Remote Machine
+>>>>>>> c5ef961bbde09facda9b1ed893d8c897d55eb89c
 a=50;
 b=30;
 c=100;
