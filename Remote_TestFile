@@ -1,0 +1,7 @@
+class Remote_TestFile
+{
+public static void main(String[] args)
+{
+int price,rate,time,omi,toti,topay;
+}
+}
