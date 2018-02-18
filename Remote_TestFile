@@ -4,4 +4,4 @@ public static void main(String[] args)
 {
 int price,rate,time,omi,toti,topay;
 }
-}
+}  //This is comment line
